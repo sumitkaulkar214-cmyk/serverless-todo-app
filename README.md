@@ -58,13 +58,13 @@ serverless-todo-app/
 
 # DynamoDB Table
 
-![DynamoDB](./images/images%20dynamodb.png.jpgimages/dynamodb.png)
+![DynamoDB](./images/QV6YkoqkCXqKhkjb78X-J2-fIsY9uKRbz4ImmqEPSL9Zi-KACM8bmxnbi4YghZFnof_3oqSzUAYSeWDnc28ro7EwmgTOF95m2z1daN3t0BCzjvAalGHGW3l5lONUpggR1SkbgXjYBk2sKgg_YKbagOQZdQED82qLR_b13pV4shDVO6BLIUUfGjhDRKeGPrBg.jpg)
 
 ---
 
 # Lambda Function
 
-![Lambda](./images/images%20homepage.png%20(2).jpgimages/lambda.png)
+![Lambda](./images/P-g6pqJ2uH13xnSnN-w83XLcdtvoAOJBRaSCyJQUQk0zvY-xpYagsi9zYCx_Vsr4FtGqH95ZHxKVbw4NU86cy7SO3_3aclofSKBc6EN1lKOyyP60MSIk-EVGXfa4wKm6oWFquFWDSYSyEwtMe2pmk_5NhPcvDQrZtwNgZke8_WafGtLqm9AuRr0-P2ter97t.jpg)
 
 ---
 
